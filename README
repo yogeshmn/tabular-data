@@ -1,0 +1,9 @@
+Instructions:
+
+1. Open index.html in any browser
+2. Play around with the table data and controls.
+
+Notes:
+
+1. Uses Handlerbars template library
+2. I've created a web component, <tabular-data> using vanilla JS which makes it a bit verbose than using some framework.
